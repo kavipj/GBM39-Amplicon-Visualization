@@ -1,0 +1,16 @@
+chr1,pos1,strand1,chr2,pos2,strand2,copy_number,breakpoint_type,raw_edge,edge_type,draw_as_arc,arc_start,arc_end,arc_height
+chr7,-1,-,chr7,54729879,-,3.0315949840827896,unclear,chr7:-1-->chr7:54729879-,source,False,,,
+chr7,54743010,+,chr7,54743011,-,3.0315949840827874,breakpoint_intrachromosomal,chr7:54743010+->chr7:54743011-,concordant,False,54743010,54743011,
+chr7,54830971,+,chr7,54830972,-,3.3139805118575785,breakpoint_intrachromosomal,chr7:54830971+->chr7:54830972-,concordant,False,54830971,54830972,
+chr7,55194959,+,chr7,55194960,-,3.1672942002803692,breakpoint_intrachromosomal,chr7:55194959+->chr7:55194960-,concordant,False,55194959,55194960,
+chr7,-1,-,chr7,55220101,-,0.012808739500052386,unclear,chr7:-1-->chr7:55220101-,source,False,,,
+chr7,55220100,+,chr7,55220101,-,3.1672942002803706,breakpoint_intrachromosomal,chr7:55220100+->chr7:55220101-,concordant,False,55220100,55220101,
+chr7,55222712,+,chr7,55222713,-,3.180102939774744,breakpoint_intrachromosomal,chr7:55222712+->chr7:55222713-,concordant,False,55222712,55222713,
+chr7,55676816,+,chr7,55676817,-,16.643944719492,breakpoint_intrachromosomal,chr7:55676816+->chr7:55676817-,concordant,False,55676816,55676817,
+chr7,55677805,+,chr7,55677806,-,16.64394471949196,breakpoint_intrachromosomal,chr7:55677805+->chr7:55677806-,concordant,False,55677805,55677806,
+chr7,56117062,+,chr7,56117063,-,3.3267892513494646,breakpoint_intrachromosomal,chr7:56117062+->chr7:56117063-,concordant,False,56117062,56117063,
+chr7,-1,-,chr7,56219661,+,3.3267892513494646,unclear,chr7:-1-->chr7:56219661+,source,False,,,
+chr7,-1,-,chr7,54743011,-,0.2823855277804728,unclear,chr7:-1-->chr7:54743011-,source,False,,,
+chr7,55222713,-,chr7,55194959,+,113.03731592864814,breakpoint_intrachromosomal,chr7:55222713-->chr7:55194959+,discordant,True,55194959,55222713,158.05568966104747
+chr7,55677806,-,chr7,55676816,+,99.57347414893034,breakpoint_intrachromosomal,chr7:55677806-->chr7:55676816+,discordant,True,55676816,55677806,174.32612830262588
+chr7,56117062,+,chr7,54830972,-,112.89062961707126,breakpoint_intrachromosomal,chr7:56117062+->chr7:54830972-,discordant,True,54830972,56117062,141.78525101946906

@@ -1,0 +1,17 @@
+#Amplicons = 1
+-----------------------------------------------------------------------------------------
+[amplicon1] AmpliconID = 1
+[amplicon1] #Intervals = 1
+[amplicon1] Intervals = chr7:54729879-56219661
+[amplicon1] OncogenesAmplified = EGFR,
+[amplicon1] TotalIntervalSize = 1489783
+[amplicon1] AmplifiedIntervalSize = 1489774
+[amplicon1] AverageAmplifiedCopyCount = 98.60351829453624
+[amplicon1] #Chromosomes = 1
+[amplicon1] #SeqenceEdges = 9
+[amplicon1] #BreakpointEdges = 3
+[amplicon1] #CoverageShifts = 4
+[amplicon1] #MeanshiftSegmentsCopyCount>5 = 2
+[amplicon1] #Foldbacks = 1
+[amplicon1] #CoverageShiftsWithBreakpointEdges = 1
+[amplicon1] -----------------------------------------------------------------------------------------
